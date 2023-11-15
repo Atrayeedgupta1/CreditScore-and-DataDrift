@@ -1,5 +1,5 @@
 # CreditScore-and-DataDrift
-Note that all of the content here is present in the documentation which is downloadable. <br><br>
+Note that all of the content here is present in the documentation file which is downloadable. <br><br>
 Problem Statement : <br>
 Utilized logistic regression and utilized WOE to transform and analyze data to generate score cards. Also developed an app using R shiny for deployment to streamline scorecard range setting using PDO, LOC , wantOdds and detected data drift using PSI.<br><br>
 The problem aims to show the maximum score and the minimum score along with the Score card after we enter 
